@@ -15,7 +15,7 @@
 - **Zoho Software:** Zoho Forms, Zoho Bigin, Zoho CRM, Zoho Flow, Zoho Creator, Zoho Desk, Zoho Projects.
 - **CMS:** WordPress, Custom CMS Development
 - **Database:** MySQL, MongoDB
-- **SEO & Marketing:** Search Engine Optimization, Digital Marketing, Social Media Marketing
+- **SEO:** Search Engine Optimization, Technical SEO.
 - **Project Management:** Agile Methodology, A/B Testing
 
 ### 🚀 Projects & Contributions
