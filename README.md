@@ -9,7 +9,7 @@
 
 ### 💻 Tech Stack & Skills
 - **Languages:** HTML5, CSS3, JavaScript, PHP, SQL
-- **Frameworks & Libraries:** React.js, Node.js, jQuery, Bootstrap
+- **Frameworks & Libraries:** React.js, Node.js, jQuery, Bootstrap, Tailwind Css, Material UI.
 - **Tools:** Git, GitHub.
 - **APIs & Integrations:** RESTful APIs, Third-Party API Integrations, Zoho CRM, Google Analytics.
 - **Zoho Software:** Zoho Forms, Zoho Bigin, Zoho CRM, Zoho Flow, Zoho Creator, Zoho Desk, Zoho Projects.
