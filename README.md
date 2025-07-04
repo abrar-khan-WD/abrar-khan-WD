@@ -7,7 +7,7 @@
 
 ---
 
-- 🚀 10+ Years in Web Development
+- 🚀 3+ Years in Web Development
 - 🧠 MERN Stack | PHP | WordPress | APIs | Zoho | CRM Integrations
 - 🏢 Senior Web Developer at <strong>GladOwl</strong>
 - 💼 Currently helping Uplers scale past 5,000 employees with tech excellence
