@@ -1,24 +1,57 @@
-### 👋 Hi, I’m @abrar-khan-WD
+<h1 align="center">Hi, I'm Abrar Khan 👋</h1>
+<h3 align="center">Founder of CodeGyaani | Full Stack Developer | Tech Enthusiast</h3>
 
-- 👀 I’m interested in **Web Development, API Integrations, and Responsive Design**
-- 🌱 I’m currently learning **MERN Stack Development** and diving deeper into **CSS Animations** and **JavaScript Games**
-- 💞️ I’m looking to collaborate on **Open Source Projects**, **API Integrations**, and **Full-Stack Development**
-- 📫 How to reach me: **[mrabrarbabarkhan@gmail.com](mailto:mrabrarbabarkhan@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/abrar-khan041998/)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I’ve completed over 200+ web development projects!**
+<p align="center">
+  <em>"Crafting code that works smart so I can work smart too."</em>
+</p>
 
-### 💻 Tech Stack & Skills
-- **Languages:** HTML5, CSS3, JavaScript, PHP, SQL
-- **Frameworks & Libraries:** React.js, Node.js, jQuery, Bootstrap, Tailwind Css, Material UI.
-- **Tools:** Git, GitHub.
-- **APIs & Integrations:** RESTful APIs, Third-Party API Integrations, Zoho CRM, Google Analytics.
-- **Zoho Software:** Zoho Forms, Zoho Bigin, Zoho CRM, Zoho Flow, Zoho Creator, Zoho Desk, Zoho Projects.
-- **CMS:** WordPress, Custom CMS Development
-- **Database:** MySQL, MongoDB
-- **SEO:** Search Engine Optimization, Technical SEO.
-- **Project Management:** Agile Methodology, A/B Testing
+---
 
-### 🚀 Projects & Contributions
-- **Website Creation & Optimization:** Developing responsive and SEO-optimized websites for ecommerce and education.
-- **E-commerce Solutions:** Crafting custom e-commerce platforms with integrated payment gateways.
-- **API Integrations:** Streamlining processes by connecting applications with third-party APIs.
+- 🚀 10+ Years in Web Development
+- 🧠 MERN Stack | PHP | WordPress | APIs | Zoho | CRM Integrations
+- 🏢 Senior Web Developer at <strong>GladOwl</strong>
+- 💼 Currently helping Uplers scale past 5,000 employees with tech excellence
+- 💡 Passionate about building SaaS tools, web automations, and scalable platforms
+- 📫 Reach me at: [abrar.khan.dev@gmail.com](mailto:abrar.khan.dev@gmail.com)
+
+---
+
+### 🔧 Languages & Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrar-khan-WD&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-khan-WD&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-khan-WD&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+<p>
+  <a href="https://linkedin.com/in/abrar-khan-WD" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
+  <a href="https://codegyaani.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" width="35"/></a>
+  <a href="mailto:abrar.khan.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35"/></a>
+</p>
+
+---
+
