@@ -39,12 +39,27 @@
 
 ---
 
-## 📌 Featured Projects
-<p>
-  🔹 <a href="https://github.com/abrar-khan-WD/project1">Project 1 - MERN App</a><br/>
-  🔹 <a href="https://github.com/abrar-khan-WD/project2">Project 2 - WordPress Plugin</a><br/>
-  🔹 <a href="https://github.com/abrar-khan-WD/project3">Project 3 - Zoho Automation</a>
-</p>
+## 🚀 Featured Projects  
+
+### 📌 [AI Voice Call Agent](https://github.com/yourrepo/voice-agent)  
+> Intelligent calling bot that handles appreciation, rejection & service pitching.  
+
+![React](https://img.shields.io/badge/Frontend-React-blue)  
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
+
+🔗 [Live Demo](https://yourlink.com) | [Source Code](https://github.com/yourrepo/voice-agent)  
+---  
+
+### 📌 [MERN Authentication App](https://github.com/yourrepo/auth-app)  
+> Secure authentication system with JWT, bcrypt, and role-based access.  
+
+![MERN](https://img.shields.io/badge/Stack-MERN-purple)  
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)  
+
+🔗 [Live Demo](https://yourlink.com) | [Source Code](https://github.com/yourrepo/auth-app)  
+---  
+
 
 ---
 
