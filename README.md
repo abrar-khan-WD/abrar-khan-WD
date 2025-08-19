@@ -11,8 +11,8 @@
 ## 🚀 About Me
 - 💻 Full Stack Web Developer with **3+ years of experience**
 - ⚡ Expertise in **MERN | WordPress | Zoho**
-- 🌱 Currently building projects at **Codegyaani**
-- 📫 Reach me at **[Your Email/Portfolio Link]**
+- 🌱 Currently building projects at **GladOwl Web Solutions Pvt Ltd**
+- 📫 Reach me at **work@codegyaani.com**
 
 ---
 
