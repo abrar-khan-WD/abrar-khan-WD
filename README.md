@@ -93,7 +93,9 @@
 ![MERN](https://img.shields.io/badge/Stack-MERN-purple)  
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)  
 
-🔗 [Source Code](https://github.com/yourrepo/auth-app)  
+🔗 [Source Code](https://github.com/abrar-khan-WD/BackEnd---MERN/tree/main/BD%20-%20Class6and7%20-%20AUTH%20APP)
+   [Live Demo] (https://vercel.com/abrar-khan-codegyaanis-projects/authentication)
+   [Note : - As this is develop in Backend need to test through Postman]
 
 ---
 
