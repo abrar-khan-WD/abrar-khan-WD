@@ -93,7 +93,7 @@
 ![MERN](https://img.shields.io/badge/Stack-MERN-purple)  
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)  
 
-# 🚀 Razorpay Clone  
+# 📌 [Razorpay Clone] 
 
 A fully responsive **Razorpay Clone** built using **Tailwind CSS** and **Vite**.  
 This project replicates the modern UI/UX of Razorpay’s official website with clean code and reusable components.  
