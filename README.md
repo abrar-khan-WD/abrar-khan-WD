@@ -33,6 +33,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-khan-WD&theme=radical" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-khan-WD&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+<p>
+  🔹 <a href="https://github.com/abrar-khan-WD/project1">Project 1 - MERN App</a><br/>
+  🔹 <a href="https://github.com/abrar-khan-WD/project2">Project 2 - WordPress Plugin</a><br/>
+  🔹 <a href="https://github.com/abrar-khan-WD/project3">Project 3 - Zoho Automation</a>
+</p>
+
+---
+
+## 🎯 Goals
+- 🌱 Learning **DevOps basics (CI/CD, Docker, AWS)**
+- 🚀 Building a **SaaS product using MERN**
+- 🤝 Open Source Contributions in 2025
+
 ---
 
 ## 🌍 Connect with Me
@@ -47,3 +67,7 @@
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">✨ Let's build something amazing together! ✨</p>
