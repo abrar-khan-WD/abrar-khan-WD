@@ -93,7 +93,33 @@
 ![MERN](https://img.shields.io/badge/Stack-MERN-purple)  
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)  
 
-🔗 [Live Demo](https://yourlink.com) | [Source Code](https://github.com/yourrepo/auth-app)  
+# 🚀 Razorpay Clone  
+
+A fully responsive **Razorpay Clone** built using **Tailwind CSS** and **Vite**.  
+This project replicates the modern UI/UX of Razorpay’s official website with clean code and reusable components.  
+
+🔗 [**Live Demo**](https://raazorpayclone.netlify.app/) | [**Source Code**](https://github.com/abrar-khan-WD/razorpay-clone)  
+
+---
+
+## 📌 Tech Stack  
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+
+---
+
+## ✨ Features  
+
+✅ Modern Razorpay-inspired UI  
+✅ Fully Responsive (Mobile, Tablet & Desktop)  
+✅ Built with Tailwind CSS utility classes  
+✅ Fast bundling with Vite  
+✅ Clean & scalable folder structure  
+
+---
+
 ---  
 
 
