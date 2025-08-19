@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Full Stack Web Developer with **3+ years of experience**
-- ⚡ Expertise in **MERN | WordPress | Zoho**
-- 🌱 Currently building projects at **GladOwl Web Solutions Pvt Ltd**
-- 📫 Reach me at **work@codegyaani.com**
+## 🚀 About Me  
+- 💻 Full Stack Web Developer with **3+ years of experience**  
+- ⚡ Expertise in **MERN | WordPress | Zoho**  
+- 🌱 Currently building projects at **GladOwl Web Solutions Pvt Ltd**  
+- 📫 Reach me at **work@codegyaani.com**  
 
 ---
 
@@ -60,10 +60,9 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>  
 
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrar-khan-WD&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-khan-WD&theme=radical" height="150"/>
@@ -71,13 +70,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-khan-WD&layout=compact&theme=radical" height="150"/>
-</p>
+</p>  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 📌 [AI Voice Call Agent](https://github.com/yourrepo/voice-agent)  
+### 📌 AI Voice Call Agent  
 > Intelligent calling bot that handles appreciation, rejection & service pitching.  
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)  
@@ -85,33 +84,31 @@
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
 
 🔗 [Live Demo](https://yourlink.com) | [Source Code](https://github.com/yourrepo/voice-agent)  
----  
 
-### 📌 [MERN Authentication App](https://github.com/yourrepo/auth-app)  
+---
+
+### 📌 MERN Authentication App  
 > Secure authentication system with JWT, bcrypt, and role-based access.  
 
 ![MERN](https://img.shields.io/badge/Stack-MERN-purple)  
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)  
 
-# 📌 Razorpay Clone
-
-A fully responsive **Razorpay Clone** built using **Tailwind CSS** and **Vite**.  
-This project replicates the modern UI/UX of Razorpay’s official website with clean code and reusable components.  
-
-🔗 [**Live Demo**](https://raazorpayclone.netlify.app/) | [**Source Code**](https://github.com/abrar-khan-WD/razorpay-clone)  
+🔗 [Source Code](https://github.com/yourrepo/auth-app)  
 
 ---
 
-## 📌 Tech Stack  
+### 📌 Razorpay Clone  
+A fully responsive **Razorpay Clone** built using **Tailwind CSS** and **Vite**.  
+This project replicates the modern UI/UX of Razorpay’s official website with clean code and reusable components.  
 
+🔗 [Live Demo](https://raazorpayclone.netlify.app/) | [Source Code](https://github.com/abrar-khan-WD/razorpay-clone)  
+
+**Tech Stack**  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
----
-
-## ✨ Features  
-
+**Features**  
 ✅ Modern Razorpay-inspired UI  
 ✅ Fully Responsive (Mobile, Tablet & Desktop)  
 ✅ Built with Tailwind CSS utility classes  
@@ -120,19 +117,14 @@ This project replicates the modern UI/UX of Razorpay’s official website with c
 
 ---
 
----  
-
-
----
-
-## 🎯 Goals
-- 🌱 Learning **DevOps basics (CI/CD, Docker, AWS)**
-- 🚀 Building a **SaaS product using MERN**
-- 🤝 Open Source Contributions in 2025
+## 🎯 Goals  
+- 🌱 Learning **DevOps basics (CI/CD, Docker, AWS)**  
+- 🚀 Building a **SaaS product using MERN**  
+- 🤝 Open Source Contributions in 2025  
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/abrar-khan041998/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -143,7 +135,7 @@ This project replicates the modern UI/UX of Razorpay’s official website with c
   <a href="https://www.youtube.com/@code_gyaani" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</p>  
 
 ---
 
