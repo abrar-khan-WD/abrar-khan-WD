@@ -1,6 +1,6 @@
 <!-- Banner -->
-<p align="center border-radius:8px">
-  <img src="https://github.com/abrar-khan-WD/abrar-khan-WD/blob/main/FOUNDER%20OF%20COEGYAANI.png" alt="Abrar Khan Banner" />
+<p align="center" style="border-radius:8px">
+  <img src="https://github.com/abrar-khan-WD/abrar-khan-WD/blob/main/FOUNDER%20OF%20COEGYAANI.png" alt="Abrar Khan Banner" style="border-radius:8px" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Abrar Khan</h1>
