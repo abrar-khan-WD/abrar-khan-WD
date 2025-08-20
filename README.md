@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="center">
+<p align="center border-radius:8px">
   <img src="https://github.com/abrar-khan-WD/abrar-khan-WD/blob/main/FOUNDER%20OF%20COEGYAANI.png" alt="Abrar Khan Banner" />
 </p>
 
