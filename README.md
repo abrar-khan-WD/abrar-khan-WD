@@ -97,16 +97,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abrar-khan-WD/lms-megaproject)
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-khan-WD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-khan-WD&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-khan-WD&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=abrar-khan-WD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 ---
@@ -148,7 +144,6 @@ I'm actively looking for **Senior Full Stack / Tech Lead roles** in India (₹12
 - 📧 **Email:** abrarbabarkhan@gmail.com
 - 📞 **WhatsApp:** +91-8378881105
 - 💼 **LinkedIn:** [linkedin.com/in/abrar-khan041998](https://linkedin.com/in/abrar-khan041998)
-- 🌐 **Live Project:** [assignments-psi-seven.vercel.app](https://assignments-psi-seven.vercel.app)
 
 ---
 
